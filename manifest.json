@@ -1,37 +1,37 @@
 {
   "name": "maskalem",
   "short_name": "anteng41",
-  "start_url": "https://maskalem.com/",
+  "start_url": "https://kalempedia.com/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#C51162",
-  "description": "Blog kumpulan tutorial blog, internet, dan teknologi.",
+  "description": "Kumpulan tutorial blog, internet, dan teknologi.",
   "icons": [{
-    "src": "https://4.bp.blogspot.com/-WquyO5xjxeU/XNLRAudVEEI/AAAAAAAAAeo/x8UEbRzPnZcYlaWx4sL030McWdtPL67EQCK4BGAYYCw/s1600/Logo-MASKALEM.png",
+    "src": "https://4.bp.blogspot.com/-WquyO5xjxeU/XNLRAudVEEI/AAAAAAAAAeo/x8UEbRzPnZcYlaWx4sL030McWdtPL67EQCK4BGAYYCw/s48/Logo-MASKALEM.png",
     "sizes": "48x48",
     "type": "image/png"
   }, {
-    "src": "https://4.bp.blogspot.com/-WquyO5xjxeU/XNLRAudVEEI/AAAAAAAAAeo/x8UEbRzPnZcYlaWx4sL030McWdtPL67EQCK4BGAYYCw/s1600/Logo-MASKALEM.png",
+    "src": "https://4.bp.blogspot.com/-WquyO5xjxeU/XNLRAudVEEI/AAAAAAAAAeo/x8UEbRzPnZcYlaWx4sL030McWdtPL67EQCK4BGAYYCw/s72/Logo-MASKALEM.png",
     "sizes": "72x72",
     "type": "image/png"
   }, {
-    "src": "https://4.bp.blogspot.com/-WquyO5xjxeU/XNLRAudVEEI/AAAAAAAAAeo/x8UEbRzPnZcYlaWx4sL030McWdtPL67EQCK4BGAYYCw/s1600/Logo-MASKALEM.png",
+    "src": "https://4.bp.blogspot.com/-WquyO5xjxeU/XNLRAudVEEI/AAAAAAAAAeo/x8UEbRzPnZcYlaWx4sL030McWdtPL67EQCK4BGAYYCw/s96/Logo-MASKALEM.png",
     "sizes": "96x96",
     "type": "image/png"
   }, {
-    "src": "https://4.bp.blogspot.com/-WquyO5xjxeU/XNLRAudVEEI/AAAAAAAAAeo/x8UEbRzPnZcYlaWx4sL030McWdtPL67EQCK4BGAYYCw/s1600/Logo-MASKALEM.png",
+    "src": "https://4.bp.blogspot.com/-WquyO5xjxeU/XNLRAudVEEI/AAAAAAAAAeo/x8UEbRzPnZcYlaWx4sL030McWdtPL67EQCK4BGAYYCw/s144/Logo-MASKALEM.png",
     "sizes": "144x144",
     "type": "image/png"
   }, {
-    "src": "https://4.bp.blogspot.com/-WquyO5xjxeU/XNLRAudVEEI/AAAAAAAAAeo/x8UEbRzPnZcYlaWx4sL030McWdtPL67EQCK4BGAYYCw/s1600/Logo-MASKALEM.png",
+    "src": "https://4.bp.blogspot.com/-WquyO5xjxeU/XNLRAudVEEI/AAAAAAAAAeo/x8UEbRzPnZcYlaWx4sL030McWdtPL67EQCK4BGAYYCw/s168/Logo-MASKALEM.png",
     "sizes": "168x168",
     "type": "image/png"
   }, {
-    "src": "https://4.bp.blogspot.com/-WquyO5xjxeU/XNLRAudVEEI/AAAAAAAAAeo/x8UEbRzPnZcYlaWx4sL030McWdtPL67EQCK4BGAYYCw/s1600/Logo-MASKALEM.png",
+    "src": "https://4.bp.blogspot.com/-WquyO5xjxeU/XNLRAudVEEI/AAAAAAAAAeo/x8UEbRzPnZcYlaWx4sL030McWdtPL67EQCK4BGAYYCw/s192/Logo-MASKALEM.png",
     "sizes": "192x192",
     "type": "image/png"
   }, {
-    "src": "https://4.bp.blogspot.com/-WquyO5xjxeU/XNLRAudVEEI/AAAAAAAAAeo/x8UEbRzPnZcYlaWx4sL030McWdtPL67EQCK4BGAYYCw/s1600/Logo-MASKALEM.png",
+    "src": "https://4.bp.blogspot.com/-WquyO5xjxeU/XNLRAudVEEI/AAAAAAAAAeo/x8UEbRzPnZcYlaWx4sL030McWdtPL67EQCK4BGAYYCw/s512/Logo-MASKALEM.png",
     "sizes": "512x512",
     "type": "image/png"
   }]
