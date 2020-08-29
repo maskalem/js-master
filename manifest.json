@@ -1,11 +1,11 @@
 {
-  "name": "maskalem",
-  "short_name": "anteng41",
+  "name": "Kalempedia",
+  "short_name": "Kalempedia",
   "start_url": "https://kalempedia.com/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#C51162",
-  "description": "Kumpulan tutorial blog, internet, dan teknologi.",
+  "description": "Berbagi tutorial dan informasi menarik seputar teknologi, blog, kesehatan dan lain sebagainya.",
   "icons": [{
     "src": "https://4.bp.blogspot.com/-WquyO5xjxeU/XNLRAudVEEI/AAAAAAAAAeo/x8UEbRzPnZcYlaWx4sL030McWdtPL67EQCK4BGAYYCw/s48/Logo-MASKALEM.png",
     "sizes": "48x48",
